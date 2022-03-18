@@ -1,0 +1,12 @@
+Z:\c#\xaml\bubblesort\bin\Debug\bubblesort.exe.config
+Z:\c#\xaml\bubblesort\bin\Debug\bubblesort.exe
+Z:\c#\xaml\bubblesort\bin\Debug\bubblesort.pdb
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.csproj.SuggestedBindingRedirects.cache
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.exe
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.pdb
+Z:\c#\xaml\bubblesort\bin\Debug\bubblesort.exe.manifest
+Z:\c#\xaml\bubblesort\bin\Debug\bubblesort.application
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.exe.manifest
+Z:\c#\xaml\bubblesort\obj\Debug\bubblesort.application
